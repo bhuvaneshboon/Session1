@@ -31,6 +31,11 @@ public class AttributesExamples {
 		System.out.println("git mobile login has been added");
 	}
 	
+public void gitPrac2() {
+		
+		System.out.println("git mobile login2 has been added");
+	}
+	
 	/*
 	 * @Test private void m1() {
 	 * 
