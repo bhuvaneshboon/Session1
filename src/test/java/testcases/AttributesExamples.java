@@ -24,6 +24,13 @@ import org.testng.annotations.Test;
 */
 public class AttributesExamples {
 	
+// for git 
+	
+	public void gitPrac1() {
+		
+		System.out.println("git mobile login has been added");
+	}
+	
 	/*
 	 * @Test private void m1() {
 	 * 
